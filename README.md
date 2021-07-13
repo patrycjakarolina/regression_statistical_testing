@@ -1,1 +1,1 @@
-# regression_statistical_testing
+# Statistical testing of Regression models
