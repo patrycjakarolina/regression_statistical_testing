@@ -16,4 +16,11 @@ News Popularity in Multiple Social Media Platforms Data Set](https://archive.ics
 2. Otherwise, preprocessed dataset is available in `data` folder
 
 
+## Notebooks include:
+- Preprocessing of original UCI dataset
+- Transforming text into embeddings using HuggingFace's [transformers] (https://github.com/huggingface/transformers)
+- t-testing of regression models
+- Calculating Pearson correlation between regression models
+- Unified mplementation of regression models from [`statsmodels`](https://www.statsmodels.org/stable/index.html) and [`scikit-learn`](https://scikit-learn.org/stable/)
+
 ### Enjoy! 👋
