@@ -1,4 +1,4 @@
-# Statistical testing of Regression models
+# Statistical testing of regression models
 
 Python >= 3.7
 
@@ -16,4 +16,4 @@ News Popularity in Multiple Social Media Platforms Data Set](https://archive.ics
 2. Otherwise, preprocessed dataset is available in `data` folder
 
 
-# Enjoy! 👋
+### Enjoy! 👋
